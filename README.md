@@ -293,19 +293,3 @@ View all screenshots [here](https://github.com/atulmy/atulmy.github.io/tree/mast
 ## Hire me
 
 Looking for a developer to build your next idea or need a developer to work remotely? Get in touch: [atul.12788@gmail.com](mailto:atul.12788@gmail.com)
-
-## Donate
-
-If you liked this project, you can donate to support it ❤️
-
-[![Donate via PayPal](https://raw.githubusercontent.com/atulmy/atulmy.github.io/master/images/mix/paypal-me-smaller.png)](http://paypal.me/atulmy)
-
-Thank you for donating:
-
-- [Oleg Serbin](https://github.com/oserbin)
-
-## License
-
-Copyright (c) 2018 Atul Yadav http://github.com/atulmy
-
-The MIT License (http://www.opensource.org/licenses/mit-license.php)
