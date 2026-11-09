@@ -111,15 +111,4 @@ Add screenshots of your own running application here:
 ```md
 ![Application screenshot](./docs/images/screenshot.png)
 ```
-Create the `docs/images` folder and add your project screenshots before using the example above.
-Author
-Satish Jadav
-GitHub: @satishjadav01
-GitHub profile: https://github.com/satishjadav01
-Original Project Credit
-This README is an adapted version of the Full-Stack JavaScript Architecture documentation originally published by Atul Yadav.
-Original author: Atul Yadav
-Original project: Full-Stack JavaScript Architecture
-Please refer to the original repository for its original license and contribution history.
----
 If you find this repository useful, feel free to explore my other projects on GitHub.
